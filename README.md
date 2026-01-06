@@ -1,4 +1,4 @@
-<h1 align="center">ScrapeIt - Web Scraper App</h1>
+<h1 align="center">ScrapingBee - Web Scraper App</h1>
 <div align="center"><img src="./src/assets/images/scraperLogo.png" width="200px" height="200px"/></div>
 <div align="center">ScrapingBee is a web scraper app that allows you to extract text or HTML content from web pages by providing a URL.</div>
 
