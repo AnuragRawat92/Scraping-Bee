@@ -1,6 +1,6 @@
 <h1 align="center">ScrapeIt - Web Scraper App</h1>
 <div align="center"><img src="./src/assets/images/scraperLogo.png" width="200px" height="200px"/></div>
-<div align="center">ScrapeIt is a web scraper app that allows you to extract text or HTML content from web pages by providing a URL.</div>
+<div align="center">ScrapingBee is a web scraper app that allows you to extract text or HTML content from web pages by providing a URL.</div>
 
 
 ## Tech Stack
@@ -49,15 +49,6 @@ npm run dev
 ## Credits
 API Ninjas (https://api.api-ninjas.com/): For providing the web scraping API.
 
-## Author
-* <a href="https://shubham-s-socials.vercel.app/"><i>Anurag Rawat</i></a>
 
-## Contributors
-
-<div>
-   
-   <img src="https://github.com/AnuragRawat92/"/>
-   </a>
-</div>
 
 
