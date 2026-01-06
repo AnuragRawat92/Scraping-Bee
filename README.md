@@ -60,9 +60,4 @@ API Ninjas (https://api.api-ninjas.com/): For providing the web scraping API.
    </a>
 </div>
 
-## License
-This project is licensed under the MIT License.
-
-## Support
-Support the project by starring the repository.
 
